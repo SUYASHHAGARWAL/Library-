@@ -32,4 +32,10 @@ createTableLibrarian --> this will create a table as librarian in your database 
 
 mainLibrary.py --> this will fetch the data from datbase whenever needed and use it, and it will also used to 
 			store the data taken from user in database. 
+			
+NOTE:-
+------
+
+The 4 files (createDatabase , and 3 createTable files) needs to be executed only once otherwise mainLibrary will 
+show error.
 			 
